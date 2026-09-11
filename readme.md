@@ -153,7 +153,6 @@ Der Tracker verbindet sich mit GPS. Wenn er GPS- Koordinaten gefunden hat und ei
 
 Daten und die Gateway- Informationen in das TTN. Über die Upload- Funktion werden die Daten auf einem OMV- Server abgelegt.
 
-#####################  Bild
 
 
 
