@@ -89,7 +89,7 @@ user setup :
 ## Schaltplan
 
 #####################
-
+![ESP32 GPS LoRaWAN Tracker](./schaltplan/gps_LoRa_Trracker.pdf)
 
 ## Software
 
