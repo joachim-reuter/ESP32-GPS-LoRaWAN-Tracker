@@ -102,39 +102,39 @@ Sketch wird vor Laden der Software in den EEPROM geladen. Er dient zum Verwalten
 ## Code
 
 * Projektdatei
-* 
+  
 GPS_LoRaWAN_Tracker.ino
 
 * globale Konfiguration
-* 
+  
 config.h
 
 * Displaymanagement
-* 
+  
 display.h
 
 display.cpp
 
 * Filesystem zum Verwalten des Tracking- Intervalls
-* 
+  
 filesystem.h
 
 filesystem.cpp
 
 * GPS- Funktionen
-* 
+  
 gps.h
 
 gps.cpp
 
 * LoRa- Funktionen
-* 
+  
 lorawan.h
 
 lorawan.cpp
 
 * lokaler Hotspot zur Einstellung des Intervalls über WEB- Seite
-* 
+  
 wifi_ap.h
 
 wifi_ap.cpp
