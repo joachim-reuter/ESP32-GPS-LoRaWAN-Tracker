@@ -9,6 +9,8 @@ Der Tracker zeichnet anhand der GPS- Daten die LoRa-WAN Verfügbarkeit auf. Übe
 
 einem Raspi4 / OMV Datenspeicher abgelegt und können über einem WEB- Service ausgewertet werden.
 
+![ESP32 GPS LoRaWAN Tracker](./images/grafik_einbindung.jpg)
+
 
 ## Hardware
 
